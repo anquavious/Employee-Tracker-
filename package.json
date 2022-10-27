@@ -1,0 +1,17 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "project that tracks employees dept and salary",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Anquavious Grant",
+  "license": "MIT",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.5",
+    "mysql2": "^2.3.3"
+  }
+}
