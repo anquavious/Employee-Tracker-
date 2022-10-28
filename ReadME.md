@@ -10,9 +10,10 @@ Screen recording of Employee Tracker application
 
 ![](Assets/Employee%20Tracker%20Sreen%20Recording.gif)
 
+![](Assets/Employee%20Tracker%20Screen%20Record.gif)
 Link to Employee Tracker 
 
-
+https://github.com/anquavious/Employee-Tracker-
 
 ## License
 
